@@ -6,7 +6,7 @@ on:
       ANDROID_NDK:
         description: "Android NDK"
         required: true
-        default: 'r28-beta1'
+        default: 'r27'
       ANDROID_ABI:
         description: "Android ABI"
         required: true
